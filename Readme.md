@@ -1,6 +1,6 @@
 ## Perceptron para definir portas lógicas ##
     O perceptron é um algoritmo que tenta simular o funcionamento de um neurônio, ou seja,
-    é um modelo proposto por McCulloch e W.Pitts é uma aproximação do fenômeno ou objeto
+    é um modelo proposto por McCulloch e W.Pitts, é uma aproximação do fenômeno ou objeto
     real. No modelo temos:
 
 1 - Temos as entradas: $x_1,x_2,...,x_n$ na qual representam a árvore dendrítica do neurônio.
