@@ -23,4 +23,4 @@ ou não: $y = sinal(u) = \pm1$ , indicando ativado para 1 e sem estímulo para 0
     Os pontos amarelos são as respectivas entradas que indicam TRUE e os pontos azuis
     FALSE, a reta em vermelho separa os pontos demonstrando que pode ser útil para casos de
     classificação entre 2 coisas.
-![Plot](./CL.png)
+![Plot](CL.png)
