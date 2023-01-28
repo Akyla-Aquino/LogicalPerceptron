@@ -5,11 +5,11 @@
 
 1 - Temos as entradas: $x_1,x_2,...,x_n$ na qual representam a árvore dendrítica do neurônio.
 
-2 - Temos os pesos das entradas dendríticas: $w_1,w_2,...,w_n$ onde o papel é modular o 
+2 - Temos os pesos das entradas dendríticas:$w_1,w_2,...,w_n$ onde o papel é modular o 
 fluxo de sinais passando por certo dendrito.
 
-3 - Para o modelo do corpo celular temos: $u = w_1*x_1+w_2*x_2+...+w_n*x_n-\theta$,
-no caso do $\theta$ temos $w_0*x_0$, onde $x_0=-1$ e  $w_0=\theta $ e $u$ é a ativação
+3 - Para o modelo do corpo celular temos:$u = w_1*x_1+w_2*x_2+...+w_n*x_n - \theta$,
+no caso do $\theta$ temos $w_0*x_0$, onde $x_0=-1$ e $w_0=\theta$ e $u$ é a ativação
 do corpo.
 
 4 - Para o axônio, é modelo como uma chave ON-OFF indicando se o modelo respondeu ao estimulo
